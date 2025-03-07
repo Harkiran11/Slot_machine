@@ -1,2 +1,2 @@
-# Slot_machine
+# Python Slot_machine
 Python slot machine
